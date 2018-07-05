@@ -1,2 +1,0 @@
-# Scribbles
-Created with CodeSandbox
